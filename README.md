@@ -1,7 +1,9 @@
 perguntas--------------------------resposta
+```css
 overflow:hidden;// para esconder o scrollbar
 
-como fazer aniamcoes --------------
+como fazer aniamcoes <br>
+
 element{
 	animation: name animation-duration;
 	animation-delay:; //tempo de desenrolo da animacao
@@ -65,3 +67,4 @@ animation-direction: reverse// rola a animacao no sentido contrario( do to para 
 forma abrevida 
 animation: name | duration | timing-function | delay | iteration-count | direction | fill-mode | play-state.
 			 
+```
